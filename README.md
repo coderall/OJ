@@ -1,2 +1,2 @@
-# leet_code
-leet code practice
+# OJ
+some OJ code practice
